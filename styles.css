@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+  
+.map-overlay {
+    position: absolute;
+    left: 0;
+    padding: 10px;
+}
+
+button {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.2em;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 100px;
+}
