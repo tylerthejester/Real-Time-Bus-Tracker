@@ -52,3 +52,16 @@ function move() {
         move();
     }, 1500);
 }
+
+// For guide
+const openBtn = document.getElementById("openGuide");
+const closeBtn = document.getElementById("closeGuide");
+const guide = document.getElementById("guide");
+
+openBtn.addEventListener("click", () => {
+    guide.classList.add("open");
+});
+
+closeBtn.addEventListener("click", () => {
+    guide.classList.remove("open");
+});
