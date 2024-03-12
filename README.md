@@ -6,7 +6,7 @@ This is a page to test the tracker from MIT to Harvard, and from Harvard back to
 
 ### Improvements
 
-• Changed the theme to back for accessibility <br />
+• Changed to the dark theme for accessibility <br />
 • Added a "Guide" button to show how to test the tracker
 
 ## How to run
