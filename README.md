@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a page to test the tracker from MIT to Harvard, and from Harvard back to MIT.
+This page allows you to test tracking from MIT to Harvard, and from Harvard back to MIT (with guidance if needed). To access the map and explore further, please obtain an API key.
 
 ### Improvements
 
